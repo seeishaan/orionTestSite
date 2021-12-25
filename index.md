@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-{% include navheader.html %}
 
+{% include navheader.html %}
 {% include services.html %}
 {% include portfolio_grid.html %}
 {% include team.html %}
