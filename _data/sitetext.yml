@@ -1,0 +1,116 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  header:
+    title: Welcome Space Cadet
+    text: It's time to bring your idea to reality
+    button: Tell Me More
+    buttonlink: "#services"
+
+  services:
+    title: "Services"
+    text: "Making your ideas a reality"
+    section: services
+    list:
+      - title: "Experience"
+        desc: "Our team has over 80 years of real world hardware development experience solving seemingly impossible design problems."
+        icon: far fa-calendar #find more at https://fontawesome.com/icons
+      - title: "Risk Mitigation"
+        desc: "Orion Venture Labs minimizes the uncertainty and risk of product innovation through design thinking by engaging in a series of prototypes to learn, test and refine concepts."
+        icon: fas fa-pencil-ruler
+      - title: "Our Process"
+        desc: "Beyond conceptualization and prototyping, Orion utilizes the PRD, Proto, EVT, DVT, PVT methodology of hardware product development. You can read more about this [here](https://medium.com/@chris_boucher/the-different-engineering-validation-stages-in-a-nutshell-evt-dvt-pvt-41d1b4b2bc4a)."
+        icon: fas fa-history
+
+  portfolio:
+    title: "Portfolio"
+    text: "Here's some of the many companies we've helped bring their ideas to life."
+    section: portfolio
+    closebutton: "Close Project"
+
+  team:
+    title: "World class team of innovators"
+    section: team
+    people:
+      - name: "Simon Lancaster"
+        role: "President and Founder"
+        image: assets/img/team/simon.jpg
+        social:
+          - url: https://www.linkedin.com/in/simonlancaster/
+            icon: fab fa-linkedin-in
+      - name: "Mike Beadle"
+        role: "Partner, Mechanical Designer"
+        image: assets/img/team/mike.jpg
+        social:
+          - url: https://www.linkedin.com/in/mbeadle/
+            icon: fab fa-linkedin-in
+      - name: "Sabrina Paseman"
+        role: "Partner, Program Manager"
+        image: assets/img/team/sabrina.png
+        social:
+          - url: https://www.linkedin.com/in/sabrina-paseman/
+            icon: fab fa-linkedin-in
+      - name: "Lucas Whipple"
+        role: "Partner, Product Architect"
+        image: assets/img/team/lucas.png
+        social:
+          - url: https://www.linkedin.com/in/lucas-whipple-7594277/
+            icon: fab fa-linkedin-in
+      - name: "Will Carey"
+        role: "Chief Design Officer"
+        image: assets/img/team/will.png
+        social:
+          - url: https://www.linkedin.com/in/willcarey/
+            icon: fab fa-linkedin-in
+      - name: "Ishaan Oberoi"
+        role: "Mechatronics Engineer Intern"
+        image: assets/img/team/ishaan.png
+        social:
+          - url: https://www.linkedin.com/in/ishaan-oberoi/
+            icon: fab fa-linkedin-in
+  meet:
+    title: "Meet with us"
+    body: "Orion Research and Advising believes in building and maintaining long term business
+    relationships with its clients. One of the key factors helping us to achieve this objective
+    is our open and transparent pricing policy. We understand that cost is a major considerations
+    for startups so we offer a variety of flexible options. Schedule a call and receive an
+    immediate quotation for your project needs."
+    section: meet
+
+  contact:
+    title: "Contact Us"
+    text: "Fill out the form below to reach out to us. "
+    section: contact
+    name: "Name*"
+    name-validation: "Please enter your name."
+    email: "Email*"
+    email-validation: "Please enter your email address."
+    phone: "Phone Number"
+    phone-validation: "Please enter your phone number."
+    message: "Message*"
+    message-validation: "Please enter a message."
+    subject: "Contact Form Submission"
+    submit: "Send Message"
+
+  footer:
+    legal: "Privacy Policy"
+    social:
+      - url: https://linkedin.com
+        icon: "fab fa-linkedin-in"
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
