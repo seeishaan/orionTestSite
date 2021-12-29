@@ -14,8 +14,8 @@
 #theme: jekyll-agency
 remote_theme: raviriley/agency-jekyll-theme
 
-url    : "https://orionvl.com" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/home" # the subpath of your site, e.g. /blog
+url    : "http://hello.orionvl.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
 
 title      : Orion Venture Labs
 email      : simon@seeorion.com #this is also the email contact forms will go to
