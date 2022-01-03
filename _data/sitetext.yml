@@ -18,17 +18,17 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Making your ideas a reality"
+    text: "Product development in the fast lane"
     section: services
     list:
-      - title: "Experience"
-        desc: "Our team has over 80 years of real world hardware development experience solving seemingly impossible design problems."
+      - title: "Product Development"
+        desc: "Our team has over 80 years of real world product development experience solving seemingly impossible design problems."
         icon: far fa-calendar #find more at https://fontawesome.com/icons
       - title: "Risk Mitigation"
         desc: "Orion Venture Labs minimizes the uncertainty and risk of product innovation through design thinking by engaging in a series of prototypes to learn, test and refine concepts."
         icon: fas fa-pencil-ruler
       - title: "Our Process"
-        desc: "Beyond conceptualization and prototyping, Orion utilizes the PRD, Proto, EVT, DVT, PVT methodology of hardware product development. You can read more about this [here](https://medium.com/@chris_boucher/the-different-engineering-validation-stages-in-a-nutshell-evt-dvt-pvt-41d1b4b2bc4a)."
+        desc: "Beyond conceptualization and prototyping, Orion utilizes proven PRD, Proto, EVT, DVT, PVT methodology of product development. You can read more about this **[here](https://medium.com/@chris_boucher/the-different-engineering-validation-stages-in-a-nutshell-evt-dvt-pvt-41d1b4b2bc4a)**."
         icon: fas fa-history
 
   portfolio:
@@ -104,7 +104,7 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://linkedin.com
+      - url: https://www.linkedin.com/company/orion-venture-labs/
         icon: "fab fa-linkedin-in"
 en-US:
   <<: *DEFAULT_EN
