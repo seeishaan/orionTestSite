@@ -1,7 +1,7 @@
 ---
 title: Carbon Mobile
 subtitle: Series A
-image: assets/img/portfolio/carbonPhone.jpg
+image: assets/img/portfolio/CarbonPhone.jpg
 
 caption:
   title: Carbon Mobile
