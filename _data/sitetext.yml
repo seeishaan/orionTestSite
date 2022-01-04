@@ -19,7 +19,7 @@ en: &DEFAULT_EN
     title: "Meet us at CES"
     text: "Schedule a meeting with our team at CES"
     section: meetCES
-    url: "https://calendly.com/seeishaan/15min"
+    url: "https://calendly.com/seeishaan/ces-signup"
   services:
     title: "Services"
     text: "Product development in the fast lane"
