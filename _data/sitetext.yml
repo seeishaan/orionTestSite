@@ -15,7 +15,11 @@ en: &DEFAULT_EN
     text: It's time to bring your idea to reality
     button: Tell Me More
     buttonlink: "#services"
-
+  meetCES:
+    title: "Meet us at CES"
+    body: "Schedule a meeting with our team at CES"
+    section: meetCES
+    url: "https://calendly.com/seeishaan/15min"
   services:
     title: "Services"
     text: "Product development in the fast lane"
@@ -79,33 +83,18 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
   meet:
     title: "Meet with us"
-    body: "Orion Research and Advising believes in building and maintaining long term business
-    relationships with its clients. One of the key factors helping us to achieve this objective
-    is our open and transparent pricing policy. We understand that cost is a major considerations
-    for startups so we offer a variety of flexible options. Schedule a call and receive an
+    body: "Orion Venture Labs believes in building long term business
+    relationships with its clients. Schedule a call and receive an
     immediate quotation for your project needs."
     section: meet
-
-  contact:
-    title: "Contact Us"
-    text: "Fill out the form below to reach out to us. "
-    section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
 
   footer:
     legal: "Privacy Policy"
     social:
       - url: https://www.linkedin.com/company/orion-venture-labs/
         icon: "fab fa-linkedin-in"
+      - url: mailto:simon@seeorion.com
+        icon: "far fa-envelope-open"
 en-US:
   <<: *DEFAULT_EN
 en-CA:

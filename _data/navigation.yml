@@ -11,6 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
+    - title: "Meet us at CES"
+      section: meetCES
     - title: "Services"
       section: services
     - title: "Portfolio"
@@ -19,8 +21,6 @@ en: &DEFAULT_EN
       section: team
     - title: "Meet With Us"
       section: meet
-    - title: "Contact"
-      section: contact
 en-US:
   <<: *DEFAULT_EN
 en-CA:
