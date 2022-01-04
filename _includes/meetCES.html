@@ -1,5 +1,5 @@
 <!-- meet -->
-<section class="page-section" id="{{ site.data.sitetext[site.locale].meetCES.section | default: "meet" }}">
+<section class="bg-light page-section" id="{{ site.data.sitetext[site.locale].meetCES.section | default: "meet" }}">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
@@ -7,13 +7,8 @@
         <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].meetCES.text | default: "" }}</h3>
       </div>
     </div>
-    <div class="row">
-      <div class="col-lg-8 mx-auto text-center">
-        <div class="large text-muted">{{ site.data.sitetext[site.locale].meetCES.body | markdownify }}</div>
-      </div>
-    </div>
     <!-- Calendly inline widget begin -->
-    <div class="calendly-inline-widget" data-url={{ site.data.sitetext[site.locale].meetCES.url | default: "https://calendly.com/orion-labs/intake" }} style="min-width:320px;height:900px;"></div>
+    <div class="calendly-inline-widget" data-url={{ site.data.sitetext[site.locale].meetCES.url | default: "https://calendly.com/orion-labs/intake" }} style="min-width:320px;height:675px;padding-top:0px;padding-bottom:0px"></div>
     <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
     <!-- Calendly inline widget end -->
   </div>

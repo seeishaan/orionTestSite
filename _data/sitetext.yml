@@ -17,7 +17,7 @@ en: &DEFAULT_EN
     buttonlink: "#services"
   meetCES:
     title: "Meet us at CES"
-    body: "Schedule a meeting with our team at CES"
+    text: "Schedule a meeting with our team at CES"
     section: meetCES
     url: "https://calendly.com/seeishaan/15min"
   services:
@@ -83,7 +83,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
   meet:
     title: "Meet with us"
-    body: "Orion Venture Labs believes in building long term business
+    text: "Orion Venture Labs believes in building long term business
     relationships with its clients. Schedule a call and receive an
     immediate quotation for your project needs."
     section: meet
@@ -95,6 +95,11 @@ en: &DEFAULT_EN
         icon: "fab fa-linkedin-in"
       - url: mailto:simon@seeorion.com
         icon: "far fa-envelope-open"
+    meetPrivate:
+      title: "Let's Talk"
+      text: "Let's Chat"
+      section: meetPrivate
+      url: "https://calendly.com/simonlancaster"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
