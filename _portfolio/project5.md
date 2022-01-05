@@ -1,14 +1,13 @@
 ---
-title: Factor Hardware
-subtitle: $1.8M+ venture funding raised
-image: assets/img/portfolio/factorProduct.png
-alt:
+title: Aphrodite.io
+subtitle: $760K VC funding raised
+image: assets/img/portfolio/aphroditeProduct.png
 
 caption:
-  title: Factor Hardware
-  subtitle: The simplest way to order, track, and pay for purchased parts
-  thumbnail: assets/img/portfolio/factorLogo.png
+  title: Aphrodite.io
+  subtitle: Aphrodite frees you from the data frenzy
+  thumbnail: assets/img/portfolio/aphroditeLogo.png
 ---
-Factor is the supplier and order management system for a world where manufacturing disruptions are the norm.
+Unparalleled analytics and visualization tools for your e-commerce and crowdfunding campaigns.
 
-Orion was responsible for product position strategy, business development strategy, product feature development roadmapping and strategy and CEO mentoring.
+Orion was a founding partner and first investor in Aphrodite. Orion advises Aphrodite on go-to-market strategy, pitch deck development, fundraising, business development and sales.

@@ -1,13 +1,14 @@
 ---
-title: Aphrodite.io
-subtitle: $760K VC funding raised
-image: assets/img/portfolio/aphroditeProduct.png
+title: Miravel
+subtitle: $500k Angel funding raised
+image: assets/img/portfolio/miravelWallGarden.jpg
+alt: Keep Exploring
 
 caption:
-  title: Aphrodite.io
-  subtitle: Aphrodite frees you from the data frenzy
-  thumbnail: assets/img/portfolio/aphroditeLogo.png
+  title: Miravel
+  subtitle: An intelligent wall garden that grows fresh produce in your home
+  thumbnail: assets/img/portfolio/miravelLogo.png
 ---
-Unparalleled analytics and visualization tools for your e-commerce and crowdfunding campaigns.
+Miravel Wall Garden is a first of it’s kind contemporary and autonomous wall garden that brings you fresh ingredients, beautiful design, and sustainable living together into one easy and accessible package (or garden if you will) for everyone no matter where you are or what environment you live in.
 
-Orion was a founding partner and first investor in Aphrodite. Orion advises Aphrodite on go-to-market strategy, pitch deck development, fundraising, business development and sales.
+Orion is directly responsible for Product Architecture, Operations, Material Selection, go-to-market, growth and C-suite leadership mentoring.
