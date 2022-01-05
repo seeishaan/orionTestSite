@@ -1,11 +1,11 @@
 ---
-title: Bunafr
-image: assets/img/portfolio/bunafrProduct.png
+title: Dystr.com
+image: assets/img/portfolio/dystrLogo.png
 alt:
 
 caption:
-  title: Bunafr
-  subtitle: Roasting coffee beans at home
-  thumbnail: assets/img/portfolio/BunafrLogo.jpg
+  title: Dystr.com
+  subtitle: Stealth Mode - coming soon
+  thumbnail: assets/img/portfolio/dystrLogo.png
 ---
-Drink hyper-fresh coffee by roasting green coffee beans at home. Orion Labs is working with Bunafr to architect and design a portfolio of future products.
+Stealth Mode - coming soon
