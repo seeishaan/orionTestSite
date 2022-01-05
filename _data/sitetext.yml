@@ -32,7 +32,7 @@ en: &DEFAULT_EN
         desc: "Orion Venture Labs minimizes the uncertainty and risk of product innovation through design thinking. We believe in continuous prototyping to test, refine, and ship product."
         icon: fas fa-pencil-ruler
       - title: "Fundraising"
-        desc: "We consistently increase valuation and fundraising success through branding and communication strategy, business development, and pitch tactic in order to close investors."
+        desc: "We consistently increase valuation and fundraising success through branding and communication strategy, business development, and pitch tactics in order to close investors."
         icon: fas fa-dollar-sign
 
   portfolio:
