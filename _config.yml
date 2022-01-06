@@ -19,7 +19,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 
 title      : Orion Venture Labs
 email      : simon@seeorion.com #this is also the email contact forms will go to
-description: ""
+description: "Orion Venture Labs is an accelerator with over 80 years of experience putting product development in the fast lane. We believe in continuous prototyping to mitigate risk and use design thinking to address uncertainty. We also work to increase the valuation and fundraising success of our clients. "
 author     :
 logo:     #optional, defaults to site title
   path: assets\img\logo\orion-white.png
