@@ -11,3 +11,5 @@ caption:
 Unparalleled analytics and visualization tools for your e-commerce and crowdfunding campaigns.
 
 Orion was a founding partner and first investor in Aphrodite. Orion advises Aphrodite on go-to-market strategy, pitch deck development, fundraising, business development and sales.
+
+<a href = "https://aphrodite.io/">Click here to learn more about Aphrodite.io.</a>

@@ -12,3 +12,5 @@ caption:
 Miravel Wall Garden is a first of it’s kind contemporary and autonomous wall garden that brings you fresh ingredients, beautiful design, and sustainable living together into one easy and accessible package (or garden if you will) for everyone no matter where you are or what environment you live in.
 
 Orion is directly responsible for Product Architecture, Operations, Material Selection, go-to-market, growth and C-suite leadership mentoring.
+
+<a href = "https://miravel.com/">Click here to learn more about Miravel.</a>
