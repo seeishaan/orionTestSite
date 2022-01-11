@@ -11,8 +11,6 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Meet us at CES"
-      section: meetCES
     - title: "Accelerator Services"
       section: services
     - title: "Portfolio"
