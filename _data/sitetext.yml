@@ -71,7 +71,7 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/willcarey/
             icon: fab fa-linkedin-in
       - name: "Brenden Singh"
-        role: "Mechatronics Engineer Intern"
+        role: "Senior Electrical Engineer"
         image: assets/img/team/brenden.png
         social:
           - url: https://www.linkedin.com/in/brenden-singh-3202/
